@@ -139,4 +139,6 @@ modules.xml
 # Ignore all local history of files
 .history
 
+*.csv
+
 # End of https://www.toptal.com/developers/gitignore/api/git,visualstudiocode,intellij+all,go
